@@ -1,1 +1,2 @@
 # BinomialAlgorithmComparisons
+This project compares the effectiveness of different algorithm strategies; recursive, dynamic programming, and memoization using the binomial equation. By generating a random list of tuples to put into the binomial equation, and running each list through each type of binomial problem, I was able to construct a graph that shows the time it took to solve each equation attempt.
