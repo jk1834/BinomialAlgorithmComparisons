@@ -3,4 +3,4 @@ This project compares the effectiveness of different algorithm strategies; recur
 
 Below is the attempt to graph all of this data using the results of all three algorithms. The x axis is the specific problem id number, ranging from 1-500 in which each algorithm was given the same two numbers and asked to find a solution. The y axis is the number of seconds it took for the given problem to be solevd. 
 
-![Initial Comparison](https://github.com/jk1834/BinomialAlgorithmComparisons/tree/main/captures/binomialcapture1.jpg)
+![Initial Comparison](https://github.com/jk1834/BinomialAlgorithmComparisons/blob/main/captures/binomialcapture1.jpg)
