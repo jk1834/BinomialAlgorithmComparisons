@@ -12,3 +12,5 @@ As you can see, the green dots overwhelm the graph completely. This is because t
 While this shows how the comparison is more even when dealing with the dynamic programming approach and the memoization approach, 500 data points is a lot to comprehend, and the graph still looks a little muddy. To remedy this, the following results were put into a table, shows here.
 
 ![Table Comparison](https://github.com/jk1834/BinomialAlgorithmComparisons/blob/main/captures/binomialtable.jpg)
+
+As you can see, the dynamic programming approach is much faster than the memoization approach, on average. For more details in the code I used, and a more detailed report, refer to the BinomialReport.pdf and binomial.py files. All of the resulting data was pushed into BinomialData.xls.
