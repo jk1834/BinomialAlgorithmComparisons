@@ -8,3 +8,7 @@ Below is the attempt to graph all of this data using the results of all three al
 As you can see, the green dots overwhelm the graph completely. This is because the green dots are representative of the basic recursion algorithm. With those removed, it becomes clearer that the other two approaches are much faster.
 
 ![Culled Comparison](https://github.com/jk1834/BinomialAlgorithmComparisons/blob/main/captures/binomialcapture2.jpg)
+
+While this shows how the comparison is more even when dealing with the dynamic programming approach and the memoization approach, 500 data points is a lot to comprehend, and the graph still looks a little muddy. To remedy this, the following results were put into a table, shows here.
+
+![Table Comparison](https://github.com/jk1834/BinomialAlgorithmComparisons/blob/main/captures/binomialtable.jpg)
